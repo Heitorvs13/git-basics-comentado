@@ -19,11 +19,11 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Seta o nome de usuário que será vinculado nas alterações feitas por você
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Sempre deve ser utilizado ao instalar o Git
 
 ---
 
@@ -35,18 +35,18 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Seta o email associado nas alterações feitas por você
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Sempre deve ser utilizado ao instalar o Git
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
-- [ ] 2. `git config --global user.email "[endereco-de-email]"`
+- [X] 1. `git config --global user.name "[nome]"`
+- [X] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
 
